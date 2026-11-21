@@ -90,7 +90,8 @@ It is built to be fast, safe, and easy to look after—for me and for the people
 | **Payments** | Stripe Checkout with signed webhooks; licences and downloads delivered automatically after payment. |
 | **Demo** | Every visitor of the demo gets a private, throwaway copy of a full site. |
 
-<img width="1275" height="1107" alt="creoCMS screenshot" src="https://github.com/user-attachments/assets/c4c0662f-a715-4219-8841-3c6018b44f6f" />
+<img width="2133" height="1203" alt="image" src="https://github.com/user-attachments/assets/e2a791e3-3865-400e-8562-b7a0e950ef21" />
+
 
 ---
 
