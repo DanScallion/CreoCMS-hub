@@ -1,6 +1,6 @@
 <div align="center">
 
-# creoCMS
+<h1><img src="assets/creocms-logo.svg" alt="creoCMS" height="72"></h1>
 
 ### Websites without the database drama.
 

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 194 48" width="194" height="48">
+  <title>creoCMS</title>
+  <g transform="scale(1.5)">
+    <rect width="32" height="32" rx="7" fill="#22c55e"/>
+    <path d="M17.75 11.4A6.2 6.2 0 1 0 17.75 20.6" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+    <rect x="22" y="15.2" width="4.6" height="9" rx="1.1" fill="#fff"/>
+  </g>
+  <g fill="none" stroke="#16a34a" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74.45 21.55A6.3 6.3 0 1 0 74.45 30.45"/>
+    <path d="M83.2 32.3V25.5Q83.2 19.7 89.2 19.7"/>
+    <path d="M95.2 26H107.8A6.3 6.3 0 1 0 105.95 30.45"/>
+    <circle cx="121" cy="26" r="6.3"/>
+    <path d="M150.58 16.42A9.3 9.3 0 1 0 150.58 29.58"/>
+    <path d="M157.5 32.3V13.7L164 25L170.5 13.7V32.3"/>
+    <path d="M188.26 16.76A5.6 4.65 0 1 0 183 23A5.6 4.65 0 1 1 177.74 29.24"/>
+  </g>
+</svg>
